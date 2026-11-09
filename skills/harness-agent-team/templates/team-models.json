@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "steps": {
+    "triage": {
+      "model": "sonnet",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "design": {
+      "model": "opus",
+      "effort": null,
+      "floor": "opus",
+      "fixed": true,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "redTeam": {
+      "model": "opus",
+      "effort": "high",
+      "floor": "opus",
+      "fixed": true,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "build": {
+      "model": "opus",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "fix": {
+      "model": "opus",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "qa": {
+      "model": "sonnet",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "complete": {
+      "model": "sonnet",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "park": {
+      "model": "sonnet",
+      "effort": null,
+      "floor": "sonnet",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "garden": {
+      "model": "sonnet",
+      "effort": "low",
+      "floor": "haiku",
+      "fixed": false,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    },
+    "retro": {
+      "model": "sonnet",
+      "effort": "low",
+      "floor": "sonnet",
+      "fixed": true,
+      "locked": false,
+      "cleanRuns": 0,
+      "raises": 0,
+      "autoLowerStopped": false,
+      "recent": []
+    }
+  }
+}
